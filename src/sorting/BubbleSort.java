@@ -2,7 +2,7 @@ package sorting;
 
 import java.util.Arrays;
 
-public class BubbleSort {
+public class BubbleSort{
 
     static void bubble(int[] arr){
         boolean swap;
